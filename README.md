@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hello there! I'm Oswaldo Sanchez
 
-<!--
-**oswaldosan/oswaldosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently**: Manager at Mayan Princess Beach Resort 🌴
+💼 **Formerly**: Software Developer with a knack for crafting exceptional web solutions
 
-Here are some ideas to get you started:
+🌱 **Core Tech Stack**:
+- **Languages**: Javascript, PHP
+- **Frameworks/Libraries**: React, Angular, Laravel & Node
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Experience**:
+- **React**: Built interactive UI components, managed state with Redux and Context API, and integrated with various backend services.
+- **Angular**: Developed single-page applications, utilized RxJS for handling asynchronous operations, and integrated Material Design for sleek UI/UX.  
+- **PHP**: Engineered robust backend solutions, worked with various databases, and integrated third-party APIs.
+- **Laravel**: Developed dynamic web applications, integrated with various databases using Eloquent ORM, utilized Laravel's MVC architecture, and implemented RESTful APIs.
+
+🤝 **Let's Connect**:
+- 🌐 [Portfolio](https://oswaldocv.vercel.app/) (If you have one, replace `#` with your portfolio link)
+- 🐦 [Twitter](https://twitter.com/_TonyLoops) (Replace `#` with your Twitter profile link)
+- 📧 Email: [oswaldosan92@gmail.com](mailto:oswaldosan92@gmail.com)
