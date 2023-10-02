@@ -14,6 +14,6 @@
 - **Laravel**: Developed dynamic web applications, integrated with various databases using Eloquent ORM, utilized Laravel's MVC architecture, and implemented RESTful APIs.
 
 🤝 **Let's Connect**:
-- 🌐 [Portfolio](https://oswaldocv.vercel.app/) (If you have one, replace `#` with your portfolio link)
-- 🐦 [Twitter](https://twitter.com/_TonyLoops) (Replace `#` with your Twitter profile link)
+- 🌐 [Portfolio](https://oswaldocv.vercel.app/)
+- 🐦 [Twitter](https://twitter.com/_TonyLoops)
 - 📧 Email: [oswaldosan92@gmail.com](mailto:oswaldosan92@gmail.com)
