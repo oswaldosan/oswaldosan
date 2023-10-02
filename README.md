@@ -1,6 +1,7 @@
 ### 👋 Hello there! I'm Oswaldo Sanchez
 
 🔭 **Currently**: Manager at Mayan Princess Beach Resort 🌴
+
 💼 **Formerly**: Software Developer with a knack for crafting exceptional web solutions
 
 🌱 **Core Tech Stack**:
