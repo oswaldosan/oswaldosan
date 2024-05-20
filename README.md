@@ -1,8 +1,6 @@
 ### 👋 Hello there! I'm Oswaldo Sanchez
 
-🔭 **Currently**: Manager at Mayan Princess Beach Resort / Senior Full Stack Developer  🌴
-
-💼 **Formerly**: Software Developer crafting exceptional web solutions
+🔭 **Currently**: Senior Full Stack Developer, crafting exceptional web solutions 🌴
 
 🌱 **Core Tech Stack**:
 - **Languages**: Javascript, PHP
