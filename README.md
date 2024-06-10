@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm Oswaldo Sanchez
 
-🔭 **Currently**: Senior Full Stack Developer, crafting exceptional web solutions 🌴
+🔭 **Currently**: Full Stack Developer, crafting exceptional web solutions 🌴
 
 🌱 **Core Tech Stack**:
 - **Languages**: Javascript, PHP
