@@ -11,6 +11,7 @@
 - **Angular**: Developed single-page applications, utilized RxJS for handling asynchronous operations, and integrated Material Design for sleek UI/UX.
 - **PHP**: Engineered robust backend solutions, worked with various databases, and integrated third-party APIs.
 - **Laravel**: Developed dynamic web applications, integrated with various databases using Eloquent ORM, utilized Laravel's MVC architecture, and implemented RESTful APIs.
+- **WordPress**: Utilized WordPress both as a traditional framework and headless CMS to implement robust solutions, leveraging REST APIs and GraphQL for flexible, decoupled architectures.
 - **Strapi**: Created multiple applications using the Strapi framework.
 - **GraphQL**: Implemented efficient data-fetching solutions with GraphQL, improving API performance and flexibility.
 
